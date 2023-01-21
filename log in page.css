@@ -1,0 +1,71 @@
+ body {
+  background-size: cover;
+  background-image:url(loginnnn.jpg);
+  background-position:center ;
+  margin:0;
+  padding:0;
+} 
+ /* .textbox {
+    background-color: black;
+    
+
+} */
+.input{
+    background-size:cover ;
+    background-image:url(log\ innnn.jpg);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    left: 350px;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+}
+.buttons {
+    border-radius: 18px;
+    border-color: black;
+    border-width: 5px;
+    margin: auto;
+    padding-right:25px;
+    margin-top: 5px;
+/* border: 1px solid black; */
+
+}
+.buttons:hover{
+    border-radius: 23px;
+    border-width: 9px;
+    border-color: black;
+    padding-right:35px;
+    color:white 5px;
+    
+
+}
+.sum{
+    border: 1px solid black;
+    margin-left: 80px;
+    align-items: center;
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    background-color: black;
+    margin-top: 110px;
+    border-radius: 18px;
+    margin-right: 90px;
+
+
+
+    
+
+
+}
+h1{
+    color: purple;
+}
+
+
+
+
+
+
